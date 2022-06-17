@@ -1,0 +1,12 @@
+body{
+	background: url("image.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+a{
+	text-decoration: none;
+	color: whitesmoke;
+}
+button{
+	background-color: black;
+}
